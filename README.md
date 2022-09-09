@@ -3,7 +3,7 @@
 ## Deep Neural Networks: Creating a binary classification model using a deep neural network
 
 ---
-<a href="url"><img src="https://github.com/DigitalGoldRush/Module_12_Challenge/blob/main/Resources/credit%20cards.jpeg" align="center" height="500" width="450" ></a>
+![https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg](<https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg>)
 
 ### Three technical deliverables were created to accomplish the following
 
@@ -24,9 +24,7 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/sklearn-balanced accuracy score-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html)
-
-[<img alt="DjangoREST" src="https://img.shields.io/badge/sklearn-confusion matrix-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/index.html)
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
