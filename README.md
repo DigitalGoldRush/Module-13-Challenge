@@ -54,18 +54,11 @@ pip install jupyterlab
 pip install notebook
 ```
 
-### 2. Imbalanced learn can be installed with pip
+### 2. TensorFlow can be installed using pip
 
-  ``` bash
-pip install -U imbalanced-learn
-
+``` bash
+pip install tensorflow
 ```
-
-- ### Or using the conda command
-
- ```python
-conda install -c glemaitre imbalanced-learn
-  ```
 
 ### 3. To install scikit-learn
 
@@ -73,6 +66,17 @@ conda install -c glemaitre imbalanced-learn
 pip install -U scikit-learn
 ```
 
+### 4. To install Keras
+
+```bash
+pip install keras
+```
+
+### 5. To install Pandas
+
+```bash
+pip install pandas
+```
 ---
 
 ## Contributors
