@@ -1,6 +1,6 @@
 # Module-13-Challenge
 
-## Deep Neural Networks: Creating a binary classification model using a deep neural network
+## Compile and Evaluate a Binary Classification Model Using a Neural Network 
 
 ---
 ![https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg](<https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg>)
